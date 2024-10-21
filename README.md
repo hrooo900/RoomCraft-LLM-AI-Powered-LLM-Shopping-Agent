@@ -72,5 +72,16 @@ LLM Agents are like intelligent virtual assistants powered by large language mod
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent/blob/main/Screenshots/s1.png)
 
+![App Screenshot](https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent/blob/main/Screenshots/s2.png)
+
+![App Screenshot](https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent/blob/main/Screenshots/s3.png)
+
+![App Screenshot](https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent/blob/main/Screenshots/s4.png)
+
+![App Screenshot](https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent/blob/main/Screenshots/s5.png)
+
+![App Screenshot](https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent/blob/main/Screenshots/s6.png)
+
+![App Screenshot](https://github.com/hrooo900/RoomCraft-LLM-AI-Powered-LLM-Shopping-Agent/blob/main/Screenshots/s7.png)
